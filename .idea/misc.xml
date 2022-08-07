@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_arrosage.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_bar_chart.xml" value="0.109375" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_detail_plantage.xml" value="0.2" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_details_zone.xml" value="0.264" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_installations.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_plantage.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/activity_zone.xml" value="0.109375" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/app_bar_statistic.xml" value="0.109375" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/content_statistic.xml" value="0.109375" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/fragment_espacevert.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/fragment_home.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/fragment_profile.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/iteam_arossage.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/iteam_grandeur.xml" value="0.2" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/iteam_installation.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/iteam_zone.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/iteamplantage.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/item_espace.xml" value="0.264" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/layout/nav_header_statistic.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Sabri/Desktop/ArrosageIntellegentV2/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
